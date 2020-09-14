@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://www.youtube.com/watch?v=o5CdCETh8cQ&t=140s
+https://www.youtube.com/watch?v=o5CdCETh8cQ&t
 
 
 ## Available Scripts
